@@ -1,13 +1,13 @@
-# Warbler Solution
+# PMA Solution
 
 ## Getting started
 
-1.  In the `warbler-server` folder
+1.  In the `pma-server` folder
 
     * `npm install`
     * `nodemon` (if installed) or `node index.js`
 
-2.  In the `warbler-client` folder
+2.  In the `pma-client` folder
 
     * `npm install`
     * `npm start`
